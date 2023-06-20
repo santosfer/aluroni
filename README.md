@@ -10,7 +10,7 @@
   - [Tecnologias usadas](#tecnologias-usadas)
   - [O que aprendi](#o-que-aprendi)
 - [Créditos](#creditos)
-   - [Repositorio Original](#repositorio-original)
+   - [Repositorio Original](#repositório-original)
 
 
 > Programa Desenvolve e Alura <br>
@@ -36,4 +36,4 @@ Esse projeto realizado junto ao programa Desenvolve 2023 teve como objetivo cria
 ## Creditos
 
 ### Repositório original
-- [Repositório aula](https://github.com/alura-cursos/aluroni-introducao/tree/Aula5)
+- [Repositório da aula](https://github.com/alura-cursos/aluroni-introducao/tree/Aula5)
